@@ -10,7 +10,8 @@ This project focuses on predicting the demand for bike sharing services in a giv
 2. Data
 3. Methodology
 4. Results
-5. Contributing
+5. Conclusion
+6. Contributing
 
 # Motivation
 Bike sharing systems play a vital role in promoting sustainable transportation and reducing traffic congestion. Accurate demand prediction enables bike sharing operators to effectively manage their resources, ensure availability, and enhance customer satisfaction. This project aims to develop machine learning models that can forecast bike demand with high accuracy.
